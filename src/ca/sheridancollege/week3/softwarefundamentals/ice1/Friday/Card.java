@@ -8,7 +8,8 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 /**
  *
  * @author Ronak
- * Edited Aman Aman 
+ * modified  Aman Aman 
+ * StudentID: 991594653
  */
 public class Card {
 
